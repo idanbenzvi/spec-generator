@@ -1,0 +1,13 @@
+{
+  "name": "spec-site",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "astro dev", "build": "astro build", "preview": "astro preview" },
+  "dependencies": {
+    "@astrojs/react": "7.1.4",
+    "astro": "7.4.7",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": { "@types/react": "19.2.18", "@types/react-dom": "19.2.7", "typescript": "6.0.2" }
+}

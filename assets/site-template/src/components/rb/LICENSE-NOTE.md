@@ -1,0 +1,1 @@
+React Bits components (reactbits.dev), license MIT + Commons Clause. Copied from ~/workout-plan; used: SpotlightCard (spec cards), Counter (overview stats), StarBorder (validated badge), SplitFlapText (version label).
